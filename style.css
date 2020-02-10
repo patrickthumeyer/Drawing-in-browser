@@ -1,0 +1,10 @@
+body {
+  background-color: turquoise;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.drawing-area {
+  height: 100vh;
+  width: 100%;
+}
